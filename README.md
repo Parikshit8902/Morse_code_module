@@ -1,6 +1,6 @@
 # Morse_code_module
 A morse code generator module which accepts input in morse code language and displays corresponding English character on the screen.
-The files contain PCB design as well as Schematic design of a Morse Code Generator module.
+The files contain PCB design as well as Schematic design.
 The components used are as follows:
 
 1. ATMEGA328P-PU MCU
