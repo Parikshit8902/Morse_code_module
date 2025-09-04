@@ -8,7 +8,7 @@ The components used are as follows:
 3. Buzzer
 4. LED
 5. Tactile Switch for accepting input
-6. N-Mosfet for power-gating
+6. P-Mosfet for power-gating
 7. LM2596 charging module
 8. Batteries
 
